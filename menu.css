@@ -1,0 +1,145 @@
+ /* CORE STYLES */
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+/* unvisited link */
+a:link {
+	color: #FFF;
+	text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+ 	color: #483D8B;
+}
+
+/* mouse over link */
+a:hover {
+  	color: #FF1493;
+}
+
+/* selected link */
+a:active {
+  	color: #FCE4EC;
+}
+h1{
+		font-variant: serif;
+		font-family: "georgia";
+		font-size: 30px;
+		color: #663399;
+		text-align: center;
+		width: 1366px;
+		background: lavender;
+		line-height: 50px;
+		margin-top: 0px;
+		margin-bottom: 0px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+video{
+	object-fit: cover;
+}
+ul{
+	
+}
+ul li{
+list-style-type: square;
+color: #BBB;
+}
+ul.sqr {
+	/*list-style-type: square;*/
+	font-weight: normal;
+	text-transform: uppercase;
+	/*color: #444;*/
+	letter-spacing: 0.30em;
+	font-family: "Trebuchet MS", Arial, Helvetica, serif;
+	font-size: 18px;
+	line-height: 3.2;
+	vertical-align: top;
+}
+
+#BG {
+	width: 1366px;
+	height: 768px;
+	margin-top: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	/*background-image: linear-gradient(180deg, #CCC 0%, #444);*/
+	background-color: lavender; 
+	position: relative;
+}
+
+.centerV {
+    	width: 540px;
+    	height: 100px;
+ 		margin: 0;
+  		position: absolute;
+  		top: 20%;
+  		left: 30%;
+  		-ms-transform: translate(-50%, -50%);
+  		transform: translate(-50%, -50%);
+  		
+	}
+
+.menuItem {
+	width: 300px;
+	height: 370px;
+	left: 22.5%;
+	top: 35%;
+	margin-top: 20%;
+	border-left-style: solid;
+	border-left-color: #663399;
+	padding-left: 40px;
+	/*margin-left: auto;
+	margin-right: auto;*/
+
+}
+
+#rightcol {
+	width: 450px;
+	height: 768px;
+	float: left;
+	margin-left: 700px;
+	background: lavender;
+}
+/*#gradBG {
+	width: 700px;
+	height: 800px;
+	margin-top: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: linear-gradient(90deg, #FFF 0%, #777 25%, #444 45%, #444 55%, #777 75%, #FFF 100%);
+}*/
+
+/*cyanBG {
+	width: 540px;
+	height: 800px;
+	background-image: linear-gradient(141deg, #9fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
+	}*/
+
+.goBack {	
+	width: 30px;
+	height: 20px;
+	position: absolute;
+	border-style: solid;
+	border-color: #000;
+	border-width: 1px;
+	left: 0;
+	top: 0;
+	opacity: .2;
+}
+
+/*#goBack {
+	opacity: 0;
+}*/
+
+.gifPos {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	width: 200px;
+	height: 200px;
+	}
