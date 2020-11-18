@@ -1,0 +1,244 @@
+@charset "utf-8";
+/* CSS Document */		
+body {
+	background-color: white;
+}
+
+a:visited {	
+	color: none; 
+	border: none;
+	text-decoration: none; 
+}
+a:link {
+	color: #666;
+	border: none;
+	text-decoration: none;
+	cursor: pointer;
+ }
+
+a:active {	
+	color: #666;
+	border: none;
+	text-decoration: none;
+}
+
+.container {
+	width: 800px;
+	height: 200px;
+	margin-top: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	background: white; 
+	border-bottom-color: #707070;
+	border-bottom-style: solid;
+	border-bottom-width: 4px;
+}
+
+/*.text {
+	position: relative;
+	height: 40px;
+	width: 400px;
+	z-index: 1;
+	top: 80px;
+	left: 180px;
+	font-size: 18px; 
+	line-height: 22px; 
+	font-style: italic; 
+	text-align: center;	
+}
+*/
+.txthold {
+	width: 110px;
+	height: 160px;
+	margin-right: 0px;
+	background: white;
+	float:left;
+}
+
+#G1hold {
+	width: 125px;
+	height: 160px;
+	margin-right: 0px;
+	margin-left: 70px;
+	background: white;
+	float:left;
+}
+
+#G1 {
+    font-family: Georgia;
+	font-size: 150px;
+	line-height: 160px;
+	text-align: center;
+	vertical-align: 5px;
+	color: #707070;
+	/*position: relative;*/
+	cursor: pointer;
+}
+
+#G1:hover{
+	font-family: Georgia;
+	font-size: 150px;
+	line-height: 160px;
+	text-align: center;
+	vertical-align: 5px;
+	color: #4E81EE;
+	text-shadow: 0px 0px 15px #4E81EE; 
+	/*position: relative;*/
+}
+
+
+#o1 {
+    font-family: Georgia;
+	font-size: 150px;
+	line-height: 160px;
+	text-align: center;
+	vertical-align: 5px;
+	color: #707070;
+	/*position: relative;*/
+	cursor: pointer;
+}
+
+#o1:hover{
+	font-family: Georgia;
+	font-size: 150px;
+	line-height: 160px;
+	text-align: center;
+	vertical-align: 5px;
+	color: #E1183A;
+	text-shadow: 0px 0px 15px #E1183A; 
+	/*position: relative;*/
+}
+
+#o2 {
+    font-family: Georgia;
+	font-size: 150px;
+	line-height: 160px;
+	text-align: center;
+	vertical-align: 5px;
+	color: #707070;
+	/*position: relative;*/
+	cursor: pointer;
+}
+
+#o2:hover{
+	font-family: Georgia;
+	font-size: 150px;
+	line-height: 160px;
+	text-align: center;
+	vertical-align: 5px;
+	color: #F5C228;
+	text-shadow: 0px 0px 15px #F5C228; 
+}
+
+
+#g2 {
+    font-family: Georgia;
+	font-size: 150px;
+	line-height: 160px;
+	text-align: center;
+	vertical-align: 5px;
+	color: #707070;
+	cursor: pointer;
+}
+
+#g2:hover{
+	font-family: Georgia;
+	font-size: 150px;
+	line-height: 160px;
+	text-align: center;
+	vertical-align: 5px;
+	color: #4E81EE;
+	text-shadow: 0px 0px 15px #4E81EE;
+}
+
+#lhold {
+	width: 80px;
+	height: 160px;
+	margin-right: 0px;
+	background: white;
+	float:left;
+}
+
+#l {
+    font-family: Georgia;
+	font-size: 150px;
+	line-height: 160px;
+	text-align: center;
+	vertical-align: 5px;
+	color: #707070;
+	cursor: pointer;
+}
+
+#l:hover{
+	font-family: Georgia;
+	font-size: 150px;
+	line-height: 160px;
+	text-align: center;
+	vertical-align: 5px;
+	color: #24BF5A;
+	text-shadow: 0px 0px 15px #24BF5A; 
+}
+
+#e {
+    font-family: Georgia;
+	font-size: 150px;
+	line-height: 160px;
+	text-align: center;
+	vertical-align: 5px;
+	color: #707070;
+	cursor: pointer;
+}
+
+#e:hover{
+	font-family: Georgia;
+	font-size: 150px;
+	line-height: 160px;
+	text-align: center;
+	vertical-align: 5px;
+	color: #E1183A;
+	text-shadow: 0px 0px 15px #E1183A; 
+}
+
+#imgbox{
+	width: 260px;
+	height: 90px;
+	margin-top: 50px;
+	margin-left: 600px;
+	margin-bottom: 50px;
+	position: relative;
+}
+#light-on{
+    position: relative;
+    height: 90px;
+    width: 250px;
+    background-image: url(light-off.PNG);
+    background-repeat: no-repeat;
+    background-size: 250px 80px;
+    cursor: pointer;
+}
+
+#light-on:hover{
+    position: relative;
+    height: 90px;
+    width: 240px;
+    background-image: url(light-on.PNG);
+	background-repeat: no-repeat;
+	background-size: 240px 90px;
+}
+
+#txtcontainer{
+	width: 1200px;
+	background-color: white;
+	margin-top: 50px;
+	padding-top: 20px;
+	margin: auto;
+	border-style: dashed;
+}
+
+#text{
+	width: 85%;
+	margin-top: 20px;
+	padding-left: 90px;
+	font-size: 20px;
+	text-align: center;
+}
