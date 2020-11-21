@@ -65,7 +65,7 @@ a:active {
 }
 
 #G1 {
-    font-family: Georgia;
+    font-family: Arial;
 	font-size: 150px;
 	line-height: 160px;
 	text-align: center;
@@ -76,7 +76,7 @@ a:active {
 }
 
 #G1:hover{
-	font-family: Georgia;
+	font-family: Arial;
 	font-size: 150px;
 	line-height: 160px;
 	text-align: center;
@@ -88,7 +88,7 @@ a:active {
 
 
 #o1 {
-    font-family: Georgia;
+    font-family: Arial;
 	font-size: 150px;
 	line-height: 160px;
 	text-align: center;
@@ -99,7 +99,7 @@ a:active {
 }
 
 #o1:hover{
-	font-family: Georgia;
+	font-family: Arial;
 	font-size: 150px;
 	line-height: 160px;
 	text-align: center;
@@ -110,7 +110,7 @@ a:active {
 }
 
 #o2 {
-    font-family: Georgia;
+    font-family: Arial;
 	font-size: 150px;
 	line-height: 160px;
 	text-align: center;
@@ -121,7 +121,7 @@ a:active {
 }
 
 #o2:hover{
-	font-family: Georgia;
+	font-family: Arial;
 	font-size: 150px;
 	line-height: 160px;
 	text-align: center;
@@ -132,7 +132,7 @@ a:active {
 
 
 #g2 {
-    font-family: Georgia;
+    font-family: Arial;
 	font-size: 150px;
 	line-height: 160px;
 	text-align: center;
@@ -142,7 +142,7 @@ a:active {
 }
 
 #g2:hover{
-	font-family: Georgia;
+	font-family: Arial;
 	font-size: 150px;
 	line-height: 160px;
 	text-align: center;
@@ -152,7 +152,7 @@ a:active {
 }
 
 #lhold {
-	width: 80px;
+	width: 70px;
 	height: 160px;
 	margin-right: 0px;
 	background: white;
@@ -160,7 +160,7 @@ a:active {
 }
 
 #l {
-    font-family: Georgia;
+    font-family: Arial;
 	font-size: 150px;
 	line-height: 160px;
 	text-align: center;
@@ -170,7 +170,7 @@ a:active {
 }
 
 #l:hover{
-	font-family: Georgia;
+	font-family: Arial;
 	font-size: 150px;
 	line-height: 160px;
 	text-align: center;
@@ -180,7 +180,7 @@ a:active {
 }
 
 #e {
-    font-family: Georgia;
+    font-family: Arial;
 	font-size: 150px;
 	line-height: 160px;
 	text-align: center;
@@ -190,7 +190,7 @@ a:active {
 }
 
 #e:hover{
-	font-family: Georgia;
+	font-family: Arial;
 	font-size: 150px;
 	line-height: 160px;
 	text-align: center;
@@ -209,21 +209,21 @@ a:active {
 }
 #light-on{
     position: relative;
-    height: 90px;
-    width: 250px;
-    background-image: url(light-off.PNG);
+    height: 120px;
+    width: 270px;
+    background-image: url(ggb&w.PNG);
     background-repeat: no-repeat;
-    background-size: 250px 80px;
+    background-size: 270px 120px;
     cursor: pointer;
 }
 
 #light-on:hover{
     position: relative;
-    height: 90px;
+    height: 85px;
     width: 240px;
-    background-image: url(light-on.PNG);
+    background-image: url(ggcolor.PNG);
 	background-repeat: no-repeat;
-	background-size: 240px 90px;
+	background-size: 240px 85px;
 }
 
 #txtcontainer{
