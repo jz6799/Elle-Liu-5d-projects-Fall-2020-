@@ -52,12 +52,10 @@ color: #BBB;
 ul.sqr {
 	/*list-style-type: square;*/
 	font-weight: normal;
-	text-transform: uppercase;
-	/*color: #444;*/
 	letter-spacing: 0.30em;
 	font-family: "Trebuchet MS", Arial, Helvetica, serif;
 	font-size: 18px;
-	line-height: 3.2;
+	line-height: 3;
 	vertical-align: top;
 }
 
@@ -85,7 +83,7 @@ ul.sqr {
 	}
 
 .menuItem {
-	width: 300px;
+	width: 500px;
 	height: 370px;
 	left: 22.5%;
 	top: 35%;
