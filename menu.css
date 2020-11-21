@@ -84,7 +84,7 @@ ul.sqr {
 
 .menuItem {
 	width: 500px;
-	height: 370px;
+	height: 600px;
 	left: 22.5%;
 	top: 35%;
 	margin-top: 20%;
@@ -97,26 +97,12 @@ ul.sqr {
 }
 
 #rightcol {
-	width: 450px;
+	width: 600px;
 	height: 768px;
 	float: left;
 	margin-left: 700px;
 	background: lavender;
 }
-/*#gradBG {
-	width: 700px;
-	height: 800px;
-	margin-top: 0px;
-	margin-left: auto;
-	margin-right: auto;
-	background-image: linear-gradient(90deg, #FFF 0%, #777 25%, #444 45%, #444 55%, #777 75%, #FFF 100%);
-}*/
-
-/*cyanBG {
-	width: 540px;
-	height: 800px;
-	background-image: linear-gradient(141deg, #9fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
-	}*/
 
 .goBack {	
 	width: 30px;
@@ -129,10 +115,6 @@ ul.sqr {
 	top: 0;
 	opacity: .2;
 }
-
-/*#goBack {
-	opacity: 0;
-}*/
 
 .gifPos {
 	margin-left: auto;
