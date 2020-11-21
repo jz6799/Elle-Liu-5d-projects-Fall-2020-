@@ -211,7 +211,7 @@ a:active {
     position: relative;
     height: 120px;
     width: 270px;
-    background-image: url(ggb&w.PNG);
+    background-image: url(ggb&w.png);
     background-repeat: no-repeat;
     background-size: 270px 120px;
     cursor: pointer;
@@ -221,7 +221,7 @@ a:active {
     position: relative;
     height: 85px;
     width: 240px;
-    background-image: url(ggcolor.PNG);
+    background-image: url(ggcolor.png);
 	background-repeat: no-repeat;
 	background-size: 240px 85px;
 }
