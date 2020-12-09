@@ -219,11 +219,11 @@ a:active {
 
 #light-on:hover{
     position: relative;
-    height: 85px;
-    width: 240px;
-    background-image: url(ggcolor.png);
+    height: 120px;
+    width: 265px;
+    background-image: url(gg.PNG);
 	background-repeat: no-repeat;
-	background-size: 240px 85px;
+	background-size: 270px 120px;
 }
 
 #txtcontainer{
