@@ -1,0 +1,252 @@
+@charset "utf-8";
+/* CSS Document */		
+body {
+	background-color: white;
+}
+
+a:visited {	
+	color: none; 
+	border: none;
+	text-decoration: none; 
+}
+a:link {
+	color: #666;
+	border: none;
+	text-decoration: none;
+	cursor: pointer;
+ }
+
+a:active {	
+	color: #666;
+	border: none;
+	text-decoration: none;
+}
+
+.container {
+	width: 1200px;
+	height: 230px;
+	margin-top: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	background: black;
+}
+
+/*.text {
+	position: relative;
+	height: 40px;
+	width: 400px;
+	z-index: 1;
+	top: 80px;
+	left: 180px;
+	font-size: 18px; 
+	line-height: 22px; 
+	font-style: italic; 
+	text-align: center;	
+}
+*/
+.txthold {
+	width: 170px;
+	height: 200px;
+	margin: auto;
+	background: black;
+	padding-left: 20px;
+	float:left;
+}
+
+#G1hold {
+	width: 170px;
+	height: 200px;
+	margin-left: 40px;
+	background: black;
+	padding-left: 20px;
+	float:left;
+}
+
+#G1 {
+	position: relative;
+    height: 200px;
+    width: 120px;
+    background-image: url(gg-g1.PNG);
+    background-repeat: no-repeat;
+    background-size: 120px 200px;
+    cursor: pointer;
+    margin-left: 20px;
+}
+
+#G1:hover{
+	position: relative;
+    height: 200px;
+    width: 200px;
+    background-image: url(neong.PNG);
+    background-repeat: no-repeat;
+    background-size: 200px 200px;
+    cursor: pointer;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+
+#o1 {
+	position: relative;
+    height: 200px;
+    width: 80px;
+    background-image: url(gg-o1.PNG);
+    background-repeat: no-repeat;
+    background-size: 80px 200px;
+    cursor: pointer;
+    margin-left: 30px;
+}
+
+#o1:hover{
+	position: relative;
+    height: 200px;
+    width: 200px;
+    background-image: url(neono1.PNG);
+    background-repeat: no-repeat;
+    background-size: 200px 200px;
+    cursor: pointer;
+    margin-left: 0px;
+}
+
+#o2 {
+	position: relative;
+    height: 200px;
+    width: 80px;
+    background-image: url(gg-o2.PNG);
+    background-repeat: no-repeat;
+    background-size: 80px 200px;
+    cursor: pointer;
+    margin-left: 30px;
+}
+
+#o2:hover{
+	position: relative;
+    height: 200px;
+    width: 200px;
+    background-image: url(neono2.PNG);
+    background-repeat: no-repeat;
+    background-size: 200px 200px;
+    cursor: pointer;
+    margin-left: 0px;
+}
+
+
+#g2 {
+	position: relative;
+    height: 200px;
+    width: 80px;
+    background-image: url(gg-g2.PNG);
+    background-repeat: no-repeat;
+    background-size: 80px 200px;
+    cursor: pointer;
+    margin-left: 30px;
+}
+
+#g2:hover{
+	position: relative;
+    height: 200px;
+    width: 200px;
+    background-image: url(neong.PNG);
+    background-repeat: no-repeat;
+    background-size: 200px 200px;
+    cursor: pointer;
+    margin-left: 0px;
+}
+
+#lhold {
+	width: 150px;
+	height: 200px;
+	margin-right: 0px;
+	background: black;
+	padding-left: 20px;
+	float:left;
+}
+
+#l {
+	position: relative;
+    height: 200px;
+    width: 30px;
+    background-image: url(gg-l.PNG);
+    background-repeat: no-repeat;
+    background-size: 30px 200px;
+    cursor: pointer;
+    margin-left: 50px;
+}
+
+
+#l:hover{
+	position: relative;
+    height: 200px;
+    width: 200px;
+    background-image: url(neonl.PNG);
+    background-repeat: no-repeat;
+    background-size: 200px 200px;
+    cursor: pointer; 
+    margin-left: 0px;
+}
+
+#e {
+	position: relative;
+    height: 200px;
+    width: 80px;
+    background-image: url(gg-e.PNG);
+    background-repeat: no-repeat;
+    background-size: 80px 200px;
+    cursor: pointer;
+    margin-left: 30px;
+}
+
+#e:hover{
+	position: relative;
+    height: 200px;
+    width: 200px;
+    background-image: url(neone.PNG);
+    background-repeat: no-repeat;
+    background-size: 200px 200px;
+    cursor: pointer;
+    margin-left: 0px;
+}
+
+#imgbox{
+	width: 260px;
+	height: 90px;
+	margin-top: 50px;
+	margin-left: 600px;
+	margin-bottom: 50px;
+	position: relative;
+}
+#light-on{
+    position: relative;
+    height: 120px;
+    width: 270px;
+    background-image: url(ggb&w.PNG);
+    background-repeat: no-repeat;
+    background-size: 270px 120px;
+    cursor: pointer;
+}
+
+#light-on:hover{
+    position: relative;
+    height: 120px;
+    width: 265px;
+    background-image: url(gg.PNG);
+	background-repeat: no-repeat;
+	background-size: 270px 120px;
+}
+
+#txtcontainer{
+	width: 1200px;
+	background-color: white;
+	margin-top: 50px;
+	padding-top: 20px;
+	margin: auto;
+	border-style: dashed;
+}
+
+#text{
+	width: 85%;
+	margin-top: 20px;
+	padding-left: 90px;
+	font-size: 20px;
+	text-align: center;
+}
